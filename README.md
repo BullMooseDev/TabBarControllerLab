@@ -4,4 +4,4 @@
 
 ## Image of app
 
-![screenshot of application](/screenShotOfApp.png)
+![screenshot of application](./screenShotOfApp.png)
