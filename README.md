@@ -4,4 +4,4 @@
 
 ## Image of app
 
-![screenshot of application](./screenShotOfApp.png)
+<img width="429" alt="screenshotOfApp" src="https://user-images.githubusercontent.com/95316362/216656683-bf17b4f4-4ab4-4a88-844d-609b64b2185e.png">
